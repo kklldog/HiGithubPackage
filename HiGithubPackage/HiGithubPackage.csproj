@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>HiGithubPackage</PackageId>
+    <Version>1.0.1</Version>
     <Authors>minjie.zhou</Authors>
     <Description>Test upload to github packages</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
